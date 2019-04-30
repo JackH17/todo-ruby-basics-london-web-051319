@@ -10,7 +10,7 @@ def assign_variable(name)
   
 end
 
-def argue()
+def argue(phrase)
   
   "#{phrase}"
   
@@ -31,10 +31,10 @@ end
 
 def last_evaluated_value
   
-  "Expert"
+  "expert"
 end
 
-def pizza_party(topping = "Cheese")
+def pizza_party(topping = "cheese")
 
 "#{topping}"
 end
