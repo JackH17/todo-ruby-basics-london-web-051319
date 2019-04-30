@@ -10,7 +10,7 @@ def assign_variable(name)
   
 end
 
-def argue("phrase")
+def argue()
   
   "#{phrase}"
   
